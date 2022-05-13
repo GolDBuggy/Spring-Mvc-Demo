@@ -1,0 +1,7 @@
+com.spring.mymvcdemo.aop.UyeSayfasiLoglama=org.springframework.stereotype.Component
+com.spring.mymvcdemo.controller.UyeController=org.springframework.stereotype.Component
+com.spring.mymvcdemo.dao.UyeDAOimpl=org.springframework.stereotype.Component
+com.spring.mymvcdemo.dao.YaziDAOimpl=org.springframework.stereotype.Component
+com.spring.mymvcdemo.entity.Uye=javax.persistence.Entity,javax.persistence.Table
+com.spring.mymvcdemo.entity.Yazi=javax.persistence.Entity,javax.persistence.Table
+com.spring.mymvcdemo.services.UyeServiceImpl=org.springframework.stereotype.Component
